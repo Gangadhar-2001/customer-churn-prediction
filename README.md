@@ -50,4 +50,4 @@ Upload all project files except your virtual environment, caches, and secrets. S
 ## Live Demo
 Try my interactive Customer Churn Prediction Dashboard:
 
-[Launch ChurnScope Dashboard](YOUR_STREAMLIT_URL)
+[Launch ChurnScope Dashboard](https://customer-churn-prediction-qvzarudlydeondeymaw5nu.streamlit.app/)
