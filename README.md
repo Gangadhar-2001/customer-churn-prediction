@@ -44,3 +44,10 @@ Logistic regression with standardized numeric features and one-hot encoded contr
 ## GitHub
 
 Upload all project files except your virtual environment, caches, and secrets. Screenshot images are generated from synthetic demo data and must be labeled accordingly.
+
+
+
+## Live Demo
+Try my interactive Customer Churn Prediction Dashboard:
+
+[Launch ChurnScope Dashboard](YOUR_STREAMLIT_URL)
